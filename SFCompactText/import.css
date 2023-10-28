@@ -1,0 +1,175 @@
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-Black.woff2') format(woff2);
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-BlackItalic.woff2') format(woff2);
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-Bold.woff2') format(woff2);
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-BoldItalic.woff2') format(woff2);
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-Heavy.woff2') format(woff2);
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-HeavyItalic.woff2') format(woff2);
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-Light.woff2') format(woff2);
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-LightItalic.woff2') format(woff2);
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-Medium.woff2') format(woff2);
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-MediumItalic.woff2') format(woff2);
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-Regular.woff2') format(woff2);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-RegularItalic.woff2') format(woff2);
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-Semibold.woff2') format(woff2);
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-Semibold.woff2') format(woff2);
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-SemiboldItalic.woff2') format(woff2);
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-SemiboldItalic.woff2') format(woff2);
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-Thin.woff2') format(woff2);
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-ThinItalic.woff2') format(woff2);
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-Ultralight.woff2') format(woff2);
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-Ultralight.woff2') format(woff2);
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-UltralightItalic.woff2') format(woff2);
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFCompactText';
+    src: url('https://raw.githubusercontent.com/PR0LAPSE/sfwebfonts/main/SFCompactText/SFCompactText-UltralightItalic.woff2') format(woff2);
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
